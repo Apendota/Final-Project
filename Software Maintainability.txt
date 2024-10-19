@@ -1,0 +1,13 @@
+Software Maintainability
+
+tools:
+
+BeautifulSoup and PyGitHub 
+Radon or Lizard; both are Python-oriented.
+
+projects
+•	Django: A well-known web framework written in Python https://github.com/django/django
+•	Pandas: A popular big data processing and examination tool https://github.com/pandas-dev/pandas
+•	Flask: Python micro web framework https://github.com/pallets/flask
+•	Scikit-learn: Python Machine Learning Library on GitHub https://github.com/scikit-learn/scikit-learn
+•	Celery: A simple distributed task queue system https://github.com/celery/celery
